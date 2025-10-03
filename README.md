@@ -4,7 +4,7 @@ A curated collection of my **Machine Learning projects**, showcasing skills in s
 
 ## Projects
 
-- **[Regression](./linear_regression/)** – Predictive modeling (e.g., house price prediction)  
+- **[Health Insurance – Linear Regression](./regression/health-insurance-linear-regression/)** – Predicting medical insurance charges using linear regression
 - **[Classification](./classification/)** – Logistic regression, decision trees, random forest  
 - **[Clustering](./clustering/)** – K-Means, hierarchical clustering, customer segmentation  
 - **[Evaluation](./evaluation/)** – Confusion matrix visualization, model comparison  
