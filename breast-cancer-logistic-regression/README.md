@@ -36,4 +36,5 @@ This project applies **Logistic Regression** to predict whether a tumor is malig
 <br>
 
 ##  Media
+![Confusion Matrix](./docs/cancer_logistic_confusion_matrix.png)
 
