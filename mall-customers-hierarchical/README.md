@@ -38,3 +38,10 @@ This project applies **Agglomerative Hierarchical Clustering** to segment custom
 
 
 ## Media
+
+### Dendrogram
+![Confusion Matrix](./docs/dnd_mall.png)
+
+
+### Scatter visulization of clustering
+![Confusion Matrix](./docs/scatter_mall.png)
