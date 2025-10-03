@@ -7,7 +7,8 @@ A curated collection of my **Machine Learning projects**, showcasing skills in s
 - **[Health Insurance](./health-insurance-linear-regression/)** (Linear Regression) – Predicting medical insurance charges using linear regression based on Kaggle dataset
 - **[Titanic](./titanic-decision-tree/)** (Decision Tree) – Predicting passenger survival using a decision tree
 - **[Breast Cancer](./breast-cancer-logistic-regression/)** (Logistic Regression) – Predicting tumor malignancy & displaying confusion matrix
-- **[Evaluation](./evaluation/)** – Confusion matrix visualization, model comparison  
+- **[Mall Customers](./mall-customers-hierarchical/)** (Hierarchical Clustering) – Segmenting customers based on income and spending score
+
 
 ## Tech Stack
 - **Python** — NumPy, Pandas, Scikit-learn, SciPy  
