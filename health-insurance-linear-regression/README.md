@@ -4,7 +4,7 @@ This project applies **Linear Regression** to predict medical insurance charges 
 
 <br>
 
-## 📂 Dataset
+## Dataset
 - **Source**: [Kaggle – Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
 - **Features**:
   - `age` – Age of the primary beneficiary  
