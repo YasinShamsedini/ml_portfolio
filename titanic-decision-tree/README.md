@@ -34,4 +34,5 @@ This project applies a **Decision Tree Classifier** to predict passenger surviva
 
 <br>
 
-✍️ *This project demonstrates classification, preprocessing, and model visualization on a classic Kaggle dataset.*
+##  Media
+![Tree Plot with depth=2 ](./docs/titanic_tree.png)
