@@ -14,7 +14,7 @@ A curated collection of my **Machine Learning projects**, showcasing skills in s
 - **Jupyter Notebook** + **Visual Studio Code**  
 - **Matplotlib**
 
----
+<br>
 
 *Note: Each project folder contains its own README with details, dataset links, and results.*  
 
