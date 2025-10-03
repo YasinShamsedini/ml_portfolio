@@ -5,7 +5,7 @@ A curated collection of my **Machine Learning projects**, showcasing skills in s
 ## Projects
 
 - **[Health Insurance](./health-insurance-linear-regression/)** (Linear Regression) – Predicting medical insurance charges using linear regression based on Kaggle dataset
-- **[Classification](./classification/)** – Logistic regression, decision trees, random forest  
+- **[Titanic](./titanic-decision-tree/)** (Decision Tree) – Predicting passenger survival using a decision tree
 - **[Clustering](./clustering/)** – K-Means, hierarchical clustering, customer segmentation  
 - **[Evaluation](./evaluation/)** – Confusion matrix visualization, model comparison  
 
