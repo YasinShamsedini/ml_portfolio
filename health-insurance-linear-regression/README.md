@@ -43,3 +43,5 @@ This project applies **Linear Regression** to predict medical insurance charges 
 <br>
 
 ## Media
+### Accuracy Visualization
+![Accuracy](./src/health_linear.png)
