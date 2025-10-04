@@ -1,39 +1,41 @@
-#  K-Means Clustering – Wholesale Customers
+# Wholesale Customers (K-Means Clustering)
 
-This project applies **K-Means Clustering** to segment wholesale customers based on their annual spending on *Milk* and *Grocery*.
+This project uses **K-Means Clustering** to segment wholesale customers based on their annual spending on Milk and Grocery products.
 
 <br>
 
 ## Dataset
-- **Source**: [Wholesale Customers Dataset (UCI)](https://archive.ics.uci.edu/ml/datasets/wholesale+customers)  
-- Features used in this project:  
+- **Source:** [Wholesale Customers Dataset](https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set)  
+- **Features used:**  
   - `Milk`  
   - `Grocery`  
-- Goal: Cluster customers into groups with similar purchase behavior
+- **Objective:** Identify distinct customer groups based on purchasing patterns.
 
 <br>
 
-## Steps
-1. Load dataset  
-2. Select two features (`Milk` and `Grocery`)  
-3. Apply **K-Means Clustering** with `k=3`  
-4. Visualize clusters and cluster centers  
+## Methodology
+1. Loading and exploring the dataset  
+2. Selecting two features (Milk and Grocery) from the available four to simplify and visualize the clustering results.
+3. Apply K-Means Clustering with `k = 3`  
+4. Visualizing the clusters and their centroids  
 
 <br>
 
 ## Results
-- Customers are divided into 3 distinct clusters  
-- White stars (`*`) represent cluster centers  
-- Visualization shows clear segmentation based on purchase amounts
+- Customers are grouped into three clear segments 
+- Cluster centers are shown with white stars (`*`)
+- And the visualization highlights differences in purchasing behavior.
 
 <br>
 
-## Tech Stack
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib  
+## Tech Stack & Python Libraries
+- Pandas
+- Numpy
+- Scikit-learn
+- Matplotlib
+
 
 <br>
 
-✍️ *This project demonstrates unsupervised learning and customer segmentation with K-Means using real-world purchase data.*
+## Visualization
+![K-Means Clustering Result](./docs/kmeans_wholesale.png)
