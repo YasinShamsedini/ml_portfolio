@@ -8,7 +8,7 @@ A curated collection of my **Machine Learning projects**, showcasing skills in s
 - **[Titanic](./titanic-decision-tree/)** (Decision Tree) – Predicting passenger survival using a decision tree
 - **[Breast Cancer](./breast-cancer-logistic-regression/)** (Logistic Regression) – Predicting tumor malignancy & displaying confusion matrix
 - **[Mall Customers](./mall-customers-hierarchical/)** (Hierarchical Clustering) – Segmenting customers based on income and spending score
-- **[Wholesale Customers – K-Means Clustering](./wholesale-customers-kmeans/)** – Customer segmentation based on product categories (milk, grocery, etc.)
+- **[Wholesale Customers](./wholesale-customers-kmeans/)** (K-Means Clustering) – Customer segmentation based on product categories (milk, grocery, etc.)
 
 
 
